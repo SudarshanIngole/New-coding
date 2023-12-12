@@ -203,9 +203,13 @@ age = [22,21,33]
 combine_name_age = list(zip(name,age))
 print(combine_name_age)
 
+# 16)
+list123 = [10,20,30,50,44]
+list123.copy()
 
-# In[ ]:
 
 
 
 
+
+# %%
