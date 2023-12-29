@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # work on Panas Library
+# # work on Pandas Library
 
 # In[1]:
 
